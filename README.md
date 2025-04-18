@@ -1,6 +1,8 @@
 #  About Me:
 I am a hobbyist software engineer, but more profoundly, I am a businessman. Tech has been my passion since childhood, and probably considering pivoting to it full-time as a career. I write and learn code because I am in love with the craft. Areas of interest include web development, systems design, and AI. 
 
+Here is where 1 get my daily bread [Exponent Technologies](https://exponenttechnologies.co.ke/)
+
 
 ## 🌐 Let's link up on my socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ekabuikariuki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekabuikariuki) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ekabuikariuki) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ephraimkariuki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ephraimkabuikariuki@gmail.com) 
